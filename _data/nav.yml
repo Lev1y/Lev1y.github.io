@@ -1,11 +1,11 @@
 links:
   - title: About
-    url: academic/about
+    url: /about
   - title: Blog
-    url: academic/blog
+    url: /blog
   - title: Projects
-    url: academic/projects
+    url: /projects
   #- title: Gallery
-  #  url: academic/gallery
+  #  url: /gallery
   - title: Contact
-    url: academic/contact
+    url: /contact
