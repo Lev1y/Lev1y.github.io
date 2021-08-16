@@ -5,7 +5,7 @@ author:
   name: Levi Yang # Your name
   email: leviyangms@protonmail.com
 
-description: Personal blog of Levi Yang. # description of your site
+description: Personal blog. # description of your site
 
 url: https://lev1y.github.io/ # The base hostname & protocol for your site, e.g. http://example.com
 baseurl: # The subpath of your site, e.g. /blog
@@ -17,7 +17,7 @@ jekyllacademic:
   contentlicense: "MIT" # Choose either one of these to put: MIT, Commons Clause, CC BY 4.0, CC BY-NC 4.0, CC BY-ND 4.0, CC BY-NC-ND 4.0, CC BY-NC-SA 4.0, CC BY-NC-SA 4.0, CC BY-SA 4.0
   socials:
     #twitter: twitter # Your twitter username
-    #github: yak-fumblepack/jekyll-academic # Your github username
+    github: https://github.com/Lev1y/Lev1y.github.io # Your github username
     #linkedin: unavailable # Your linkedin
     #keybase: keybase # Your keybase
 
