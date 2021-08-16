@@ -7,8 +7,8 @@ author:
 
 description: Personal blog # description of your site
 
-url: https://lev1y.github.io/academic/ # The base hostname & protocol for your site, e.g. http://example.com
-baseurl: "" # The subpath of your site, e.g. /blog
+url: "https://lev1y.github.io/" # The base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/academic" # The subpath of your site, e.g. /blog
 
 jekyllacademic:
   homepage_title: Hi, I am Levi. <br> I develop innovative technologies for <br> our sustainable future. # Your homepage title
