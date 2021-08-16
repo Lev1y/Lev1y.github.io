@@ -7,7 +7,7 @@ author:
 
 description: Personal blog of Levi Yang. # description of your site
 
-url: https://lev1y.github.io # The base hostname & protocol for your site, e.g. http://example.com
+url: https://lev1y.github.io/academic # The base hostname & protocol for your site, e.g. http://example.com
 baseurl: /academic # The subpath of your site, e.g. /blog
 
 jekyllacademic:
