@@ -23,14 +23,16 @@ layout: default
 	}
 </style>
 <section class="posts">
-  <h1 style="color: #cc0000">Example Blog</h1>
+  <h1 style="color: #cc0000">Blog</h1>
   <div id="search-container">
     <input type="text" id="search-input" placeholder="Search for a tag or post...">
     <ol id="results-container"></ol>
   </div>
+<!--
   <h2 style="color: #cc0000">Feed</h2>
-  <a href="{{ site.baseurl }}/atom.xml" class="rss">RSS <span class="fa fa-rss" style="color: #ee802f"></span></a>
-  <a href="{{ site.baseurl }}/feed.json" class="rss">JSON <span class="fa fa-rss" style="color: #ee802f"></span></a>
+  ## <a href="{{ site.baseurl }}/atom.xml" class="rss">RSS <span class="fa fa-rss" style="color: #ee802f"></span></a>
+  ## <a href="{{ site.baseurl }}/feed.json" class="rss">JSON <span class="fa fa-rss" style="color: #ee802f"></span></a>
+-->
   <h2 style="color: #cc0000">Tags</h2>
   {% assign tags = site.tags | sort %}
   <p>

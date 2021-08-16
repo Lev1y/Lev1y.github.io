@@ -1,6 +1,6 @@
 $backgroundColor: #ffffff;
 $bodyColor: #000000;
-$bodyFont: Verdana, "Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+$bodyFont: Helvetica,"Segoe UI",Verdana,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
 
 html {
   position: relative;
@@ -11,7 +11,7 @@ body {
   background: $backgroundColor;
   color: $bodyColor;
   font-family: $bodyFont;
-  font-size: 14px;
+  font-size: 16px;
   margin-bottom: 40px;
 }
 
@@ -29,6 +29,10 @@ section {
   min-width: 70%;
   display: flex;
   flex-direction: column;
+
+  h6 {
+    font-size: 180%;
+  }
 
   h1 {
     font-size: 150%;
@@ -82,7 +86,7 @@ header {
 
   a:hover {
     color: $bodyColor;
-    border-bottom: 1px gray dotted;
+    border-bottom: 1px #000000;
   }
 }
 
@@ -183,7 +187,7 @@ pre {
 
 blockquote {
   border-left: .25em solid #dfe2e5;
-  color: #6a737d;
+  color: #000000;
   padding: 0 1em;
 }
 

@@ -1,11 +1,11 @@
 links:
-  - title: overview
-    url: /overview
-  - title: projects
-    url: /projects
-  - title: blog
+  - title: About
+    url: /about
+  - title: Blog
     url: /blog
-  - title: gallery
-    url: /gallery
-  - title: contact
+  - title: Projects
+    url: /projects
+  #- title: Gallery
+  #  url: /gallery
+  - title: Contact
     url: /contact
