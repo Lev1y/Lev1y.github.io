@@ -4,7 +4,7 @@ layout: default
 
 <h1 style="color: #cc0000;">About</h1>
 
-<img src="/assets/images/profile2" width="150"/>
+<img src="/assets/images/profile2.jpg" width="150"/>
 
 Hi, welcome to my blog.
 
