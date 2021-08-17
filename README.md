@@ -4,7 +4,7 @@ Lev1y is a lightweight github page for personal usage which is forked from [yak-
 
 ## Update
 
-- An email contact page is added by using [Formspree](https://formspree.io/). To make it yours, change the form action in `_layouts` $\rightarrow$ `contact.html`.
+- An email contact page is added by using [Formspree](https://formspree.io/). To make it yours, change the form action in `_layouts` -> `contact.html`.
 
 ## License
 
