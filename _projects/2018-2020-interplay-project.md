@@ -34,7 +34,7 @@ Through changing the phase separation duration and alkaline concentration, the m
 
 *Fig.3 Solute retention vs. increased solute molecular weight for the s-hPAN underwent 1.75 N NaOH-induced phase separation, with NaOH contact times at 0 min, 3 min, 1 h, 2 h, and 4 h.*
 
-<img src="/assets/images/2018-2020-interplay-project/compare.png" width="300"/>
+<img src="/assets/images/2018-2020-interplay-project/CA_UOCA_compare.jpeg" width="300"/>
 
 *Fig.4 The water contact angle (left Y-axis) and oil contact angle (right Y-axis) of the membranes prepared from 1.75 N NaOH but different hydrolysis treatment time for p-hPAN (30 min to 24 h) and s-hPAN7 (1 min to 4 h).*
 
