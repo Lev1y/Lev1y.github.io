@@ -1,6 +1,6 @@
 # About blog
 
-Lev1y is a lightweight github page for personal usage which is forked from [yak-fumblepack/jekyll-academic](https://github.com/yak-fumblepack/jekyll-academic). Fork from my repositry is welcome, however I strongly recommond you to use the original theme above to prevent any possible bugs.
+Lev1y is a lightweight github page for personal usage which is forked from [yak-fumblepack/jekyll-academic](https://github.com/yak-fumblepack/jekyll-academic). Fork from my repository is welcome, however I strongly recommond you to use the original theme above to prevent any possible bugs.
 
 ## Update
 
